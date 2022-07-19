@@ -20,7 +20,7 @@ body{
     position: relative;
     margin: auto;
     align-items: center;
-    bottom: 350px;
+    bottom: 330px;
     border-radius: 18px;
     box-shadow: 0px 20px 20px hsl(223, 51%, 90%);
 }
